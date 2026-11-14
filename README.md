@@ -1,4 +1,4 @@
-# Wrong tags and package registries (2026-11-14)
+# Tag/version mismatches and package registries (2026-11-14)
 
 Of release tags that name a version their commit does not declare, how many had that version
 published on a package registry? The question and the rules were written before any registry was
