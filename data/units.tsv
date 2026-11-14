@@ -1,0 +1,118 @@
+case	list	repo	tag	tag_date	registry	package
+L001	corpus100	mrabarnett/mrab-regex	2026.9.19	2026-09-19	pypi	regex
+L003	corpus100	python/tzdata	2026.3rc1	2026-07-09	pypi	tzdata
+L006	ext	huggingface/huggingface_hub	v1.3.6	2026-02-02	pypi	huggingface-hub
+L007	ext	huggingface/transformers	v5.10.3	2026-06-15	pypi	transformers
+L009	ext	pallets-eco/croniter	6.1.0rc3	2026-03-14	pypi	croniter
+L011	ext	pytest-dev/pytest-timeout	2.5.0	2026-08-16	pypi	pytest-timeout
+L013	fdroid	AbhinavXT/debforge	v1.0.1	2026-06-28	fdroid	com.abhinavxt.debforge
+L015	fdroid	ELowry/DNSToggle	v1.0.5	2026-04-25	fdroid	com.ericlowry.dnstoggle
+L017	fdroid	GlassOnTin/Haven	v4.10.1	2026-03-30	fdroid	sh.haven.app
+L024	fdroid	WingSword/YiGameCopilotX	v1.5	2026-05-01	fdroid	org.walks.gamecopilot
+L029	fdroid	dorumrr/de1984	v2.6.7	2026-08-28	fdroid	io.github.dorumrr.de1984
+L030	fdroid	elementdavv/chaka	v1.24.9a.20-beta	2026-01-20	fdroid	net.timelegend.chaka.viewer.app
+L032	fdroid	joshuabeny1999/BibleVerseApp	v2.0.0	2026-10-29	fdroid	ch.joshuah.bibleverseapp
+L033	fdroid	lunchwine/space-trader-classic	v0.9.0	2026-10-15	fdroid	io.github.lunchwine.spacetraderclassic
+L035	fdroid	montafra/beam	v0.1	2026-05-07	fdroid	montafra.beam
+L039	fdroid	nituls265/Nudge	v1.2.1	2026-07-25	fdroid	com.nitulshah.nudge
+L040	fdroid	ohuc/CaffeineHealth	v2.2.2	2026-05-27	fdroid	com.uc.caffeine
+L042	fdroid	piot5/keytab	v0.19	2026-10-22	fdroid	com.piotv.keytab
+L043	fdroid	samyak2403/RepoStore	v1.0.13	2026-02-16	fdroid	com.samyak.repostore
+L045	fdroid	soichi11208/Zinna-IME	0.0.6	2026-08-13	fdroid	io.github.soichi11208.zinna
+L046	fdroid	spandan-kumar/PageDrop	v0.1.2	2026-06-15	fdroid	app.pagedrop
+L047	fdroid	standardsats/valet	5.0.1	2026-05-09	fdroid	finance.valet
+L048	fdroid	tigerduck-app/tigerduck-app-android	v0.6.0-alpha	2026-03-25	fdroid	org.ntust.app.tigerduck.fdroid
+L051	fdroid	ximeiorg/Xime	v2.0.0-beta4	2026-04-26	fdroid	com.kingzcheung.xime
+L054	flutter	Kyosee/VeneraX	v2.1.8-beta.1	2026-07-11	manifest	
+L055	flutter	abduznik/Freegosy	v0.0.1	2026-03-24	manifest	
+L056	flutter	enrique-lozano/Monekin	v10.0.2	2026-08-23	manifest	
+L062	random-fdroid	Antoine-lab-pixel/BoxingClock	v1.0.2	2026-02-28	fdroid	com.antoinelabpixel.boxingclock
+L065	random-fdroid	CraftWorksMC/Chora	v1.29.1	2026-02-12	fdroid	com.craftworks.music
+L066	random-fdroid	Dev-Aditya-More/PokeVerse	v1.4.0	2026-01-22	fdroid	com.aditya1875.pokeverse
+L067	random-fdroid	DottoXD/NetManager	0.0.4	2026-05-27	fdroid	pw.dotto.netmanager.foss
+L069	random-fdroid	JohnLines/mediclog	v0.2.20	2026-09-27	fdroid	org.paladyn.mediclog
+L070	random-fdroid	KingAlexGilbert/king-pong	v1.0.2	2026-06-29	fdroid	com.kingalex.kingpong
+L073	random-fdroid	RazielO/BoutScoring	v1.0.1	2026-01-31	fdroid	com.razielo.boutscoring
+L074	random-fdroid	SniShaper/lumine-for-android	v0.1.1	2026-04-06	fdroid	com.moi.lumine
+L077	random-fdroid	andreabenetton/pcontacts	v1.0.0	2026-05-27	fdroid	io.pcontacts.app
+L079	random-fdroid	anonfaded/FadCam	v3.1.0-beta	2026-01-26	fdroid	com.fadcam
+L080	random-fdroid	danmarg/where	v2026.08.29.1	2026-08-29	fdroid	net.af0.where
+L081	random-fdroid	deutsia/deutsia-radio	v1.6.0	2026-01-03	fdroid	com.opensource.i2pradio
+L082	random-fdroid	dkrivoruchko/ScreenStream	4.3.3	2026-02-20	fdroid	info.dvkr.screenstream
+L083	random-fdroid	dmzz-yyhyy/LightNovelReader	1.2.0-rc1	2026-04-05	fdroid	indi.dmzz_yyhyy.lightnovelreader
+L084	random-fdroid	estiaksoyeb/TypeAssist	v1.0.5	2026-01-18	fdroid	com.typeassist.app
+L086	random-fdroid	gifboard/gifboard	v1.0.1	2026-01-25	fdroid	com.gifboard
+L087	random-fdroid	helloworld3003/Live-Wallpaper-Dino-game	v1.2.0	2026-05-19	fdroid	com.helloworld3003.livewallpaperdinogame
+L088	random-fdroid	higorslva/biketrackd	v0.4	2026-06-09	fdroid	com.biketrackd.app
+L089	random-fdroid	izivkov/RemoteVideoCam	v3.6	2026-02-01	fdroid	org.avmedia.remotevideocam
+L093	random-fdroid	newerZGQ/day_exam	v1.1.4	2026-04-23	fdroid	com.gorden.dayexam
+L094	random-fdroid	newo-ether/Agora	v1.0.2	2026-05-24	fdroid	com.newoether.agora
+L095	random-fdroid	sasas991/android_wol_panel	1.2	2026-07-08	fdroid	com.sasas991.wolpanel
+L097	random-fdroid	thetwom/toc2	v4.14.0-rc1	2026-04-14	fdroid	de.moekadu.metronome
+L098	random-fdroid	tuxx/LinxShare	v1.6	2026-02-28	fdroid	com.kolktech.linxshare
+L099	random-fdroid	wiiguy/lightweight_androidtv_launcher	v1.5.2	2026-05-19	fdroid	com.tvlauncher
+L100	random-fdroid	ximeiorg/Xime	v2.4.0-t9-beta2	2026-06-15	fdroid	com.kingzcheung.xime
+L105	random-npm	DawidWraga/davstack	@davstack/init@1.2.0	2026-05-25	npm	@davstack/sound
+L111	random-npm	Next2012/Glad	v1.0.2	2026-04-26	npm	glad-web
+L118	random-npm	coral-xyz/anchor	v0.30.4	2026-11-03	npm	@trixter-osec/spl-associated-token-account
+L119	random-npm	falling-ts/dsh-force-compact	v0.2.1	2026-08-26	npm	@falling-ts/dsh-force-compact
+L121	random-npm	huanglizhuo/OctoCounts	extension-v0.1.2	2026-05-07	npm	octocounts
+L122	random-npm	jeremylongshore/claude-code-plugins-plus-skills	v4.31.0	2026-05-08	npm	@intentsolutionsio/container-security-scanner
+L123	random-npm	jsilff/AniLibrary-React	v0.2.1	2026-07-21	npm	@jsilff/anilibrary-react
+L128	random-npm	payway-ar/sdk-node-ventaonline	V2.0.3	2026-01-21	npm	sdk-node-ventaonline
+L129	random-npm	richard-lai/napm	v0.2.3	2026-03-07	npm	@rilai/napm
+L130	random-npm	rsksmart/flyover-sdk	v1.9.0-rc	2026-01-21	npm	@rsksmart/flyover-sdk
+L131	random-npm	setmy-info/servedjs-test	version-1.1.4	2026-07-05	npm	servedjs
+L138	random-npm	termylabs/termy	v0.1.1	2026-02-19	npm	@termysh/pty-darwin-x64
+L140	random-npm	trippyogi/gitworthy	v0.3.1	2026-07-09	npm	gitworthy
+L141	random-npm	vertz-dev/vertz	v0.2.68	2026-04-16	npm	@vertz/core
+L143	random-pubdev	DDouGGS/system_language	0.3.1	2026-05-10	pubdev	system_language
+L150	random-pubdev	abdelrzz9/FluxUI	v0.2.0	2026-05-01	pubdev	fluxui_kit
+L153	random-pubdev	appmeasurely/flutter-sdk	v1.0.1	2026-07-21	pubdev	appmeasurely
+L163	random-pubdev	gabdsg/flutter_decorated_text	2.2.0	2026-04-28	pubdev	flutter_decorated_text
+L171	random-pubdev	nuageeee/vigie	v0.3.0	2026-10-05	pubdev	vigie
+L182	random-pypi	2049lab/personos	v0.1.4	2026-10-07	pypi	personos
+L184	random-pypi	CedricDeVon/qlogicae-logis	v3.1.2	2026-09-06	pypi	qlogicae-logis
+L185	random-pypi	CoreOxide/aws_resource_validator	2.0.1	2026-04-28	pypi	aws-resource-validator-snowball
+L187	random-pypi	Kishan-Agarwal-28/fsteg	v0.1.1	2026-09-08	pypi	fsteg
+L189	random-pypi	SmallFishGUI/small_fish_gui	v2.1.0	2026-01-06	pypi	small-fish-gui
+L190	random-pypi	Wise-Zhi/quota-floor	v0.1.0-alpha	2026-08-24	pypi	quota-floor
+L192	random-pypi	alex-jb/orallexa-marketing-agent	v0.3.0	2026-04-28	pypi	orallexa-marketing-agent
+L193	random-pypi	amaiya/onprem	v0.24.2	2026-10-02	pypi	onprem
+L194	random-pypi	b-tree-labs/axiom-os	v0.70.5	2026-10-25	pypi	axiom-os-lm
+L195	random-pypi	byteplus-sdk/byteplus-python-sdk-v2	3.0.35	2026-03-10	pypi	byteplussdk-milvus
+L196	random-pypi	davidson-engineering/serial-junction	v0.1.0	2026-02-13	pypi	serial-junction
+L197	random-pypi	deghosal-2026/mcplex	v0.1.0-alpha	2026-07-20	pypi	mcplex-backplane
+L199	random-pypi	duriantaco/ca9	v0.3.1	2026-05-19	pypi	ca9
+L203	random-pypi	jhaizhou-ops/pinrule	v0.13.6	2026-05-17	pypi	pinrule
+L207	random-pypi	oernster/TrellisDB	v1.0.4	2026-01-09	pypi	trellisdb
+L209	random-pypi	pingera/pingera-mcp	0.1.14	2026-02-07	pypi	pingera-mcp-server
+L210	random-pypi	pooyanazad/kube-saver	v1.2.0	2026-07-22	pypi	kube-saver
+L211	random-pypi	richlegrand/OctoPrint-BitBang	0.2.9	2026-06-24	pypi	OctoPrint-BitBang
+L212	random-pypi	smarter-sh/smarter-python	v0.2.1	2026-10-13	pypi	smarter-api
+L213	random-pypi	sqrtminustwo/twitch_auto_clipper	v1.0.0	2026-09-07	pypi	twitch-auto-clipper
+L215	random-pypi	trycua/cua	cua-driver-rs-v0.1.4	2026-05-14	pypi	cua-cloud
+L216	random-pypi	tw4/neuralnetwork3d	2026.0901.0	2026-09-01	pypi	nn3d
+L219	random-pypi	wangneo276-lgtm/bazicalculator-url-tools	v0.1.1	2026-10-31	pypi	bazicalculator-url-tools
+L220	random-pypi	z44d/toolsx	v0.1.5	2026-05-18	pypi	tools-extra
+L221	random-pypi	zzinnovate/lettermint-django	0.3.0a1	2026-09-02	pypi	lettermint-django
+L222	random-rubygems	24c02/toolchest	v0.3.1	2026-04-09	rubygems	toolchest
+L225	random-rubygems	datacite/orcid_client	0.17.0	2026-02-20	rubygems	orcid_client
+L226	random-rubygems	dschmura/markdowndocs	v0.10.0	2026-06-24	rubygems	markdowndocs
+L230	random-rubygems	philiprehberger/rb-safe-yaml	v0.1.1	2026-03-13	rubygems	philiprehberger-safe_yaml
+L232	random-rubygems	thoran/stateful	v0.14.5	2026-08-19	rubygems	stateful.rb
+L238	rust	servo/rust-smallvec	v1.16.0	2026-08-26	crates	smallvec
+L239	stars	666ghj/MiroFish	v0.1.2	2026-03-06	manifest	
+L240	stars	Comfy-Org/ComfyUI	v0.20.2	2026-05-03	manifest	
+L243	stars	Graphify-Labs/graphify	v0.4.31	2026-04-22	manifest	
+L245	stars	Mintplex-Labs/anything-llm	v1.11.2	2026-03-18	manifest	
+L247	stars	Stirling-Tools/Stirling-PDF	v2.6.0	2026-03-03	manifest	
+L252	stars	chen08209/FlClash	v0.8.95-pre.1	2026-07-23	manifest	
+L253	stars	clash-verge-rev/clash-verge-rev	v2.5.4-rc.2	2026-09-20	manifest	
+L256	stars	colbymchenry/codegraph	v0.7.9	2026-05-17	manifest	
+L259	stars	github/spec-kit	v0.1.7	2026-02-26	manifest	
+L260	stars	google-gemini/gemini-cli	v0.49.0-preview.0	2026-06-23	manifest	
+L265	stars	juliangarnier/anime	v4.3.2	2026-01-22	manifest	
+L269	stars	paperclipai/paperclip	@paperclipai/db@0.2.5	2026-03-03	manifest	
+L271	stars	rtk-ai/rtk	v0.30.1-rc.43	2026-03-19	manifest	
+L273	stars	ruvnet/ruflo	v3.32.40	2026-07-30	manifest	

@@ -1,0 +1,22 @@
+L011 pypi pytest-timeout 2.5.0 conteudo_igual  945ec4617e py same 1 differ 0 unmatched 0; differ: []
+L119 npm @falling-ts/dsh-force-compact 0.2.1 igual_ao_da_tag 97f2a49693 97f2a49693 
+L123 npm @jsilff/anilibrary-react 0.2.1 outro_commit 52cfc4d0f7 7f400246cc 
+L140 npm gitworthy 0.3.1 igual_ao_da_tag 1265ab259b 1265ab259b 
+L141 npm @vertz/core 0.2.68 nao_registrado  9c9f9acffd 
+L143 pubdev system_language 0.3.1 nao_registrado  52b0ec5e43 
+L150 pubdev fluxui_kit 0.2.0 nao_registrado  f445a55fca 
+L153 pubdev appmeasurely 1.0.1 nao_registrado  9fa773943f 
+L163 pubdev flutter_decorated_text 2.2.0 nao_registrado  e594e5d793 
+L184 pypi qlogicae-logis 3.1.2 conteudo_difere  34bc672afe py same 9 differ 73 unmatched 1; differ: ['qlogicae_logis/v3/_vendor/pyyaml/yaml/__init__.
+L187 pypi fsteg 0.1.1 conteudo_igual  0286654996 py same 3 differ 0 unmatched 0; differ: []
+L189 pypi small-fish-gui 2.1.0 conteudo_igual  2b0b309f14 py same 39 differ 0 unmatched 0; differ: []
+L194 pypi axiom-os-lm 0.70.5 conteudo_difere  c2f955460f py same 3507 differ 17 unmatched 29; differ: ['src/axiom/extensions/builtins/context/gener
+L209 pypi pingera-mcp-server 0.1.14 conteudo_difere  8b89c7428b py same 24 differ 1 unmatched 0; differ: ['pingera_mcp/__init__.py']
+L213 pypi twitch-auto-clipper 1.0.0 conteudo_igual  d374594e8b py same 17 differ 0 unmatched 0; differ: []
+L226 rubygems markdowndocs 0.10.0 nao_registrado  b56a9d7a5f 
+L238 crates smallvec 1.16.0 outro_commit aa22a8ff83 b3ceac4757 
+L243 pypi graphifyy 0.4.31 conteudo_difere  64e4c64d7b py same 14 differ 6 unmatched 0; differ: ['graphify/__main__.py', 'graphify/build.py', 'gr
+L256 npm @colbymchenry/codegraph 0.7.9 igual_ao_da_tag 58c1414ce5 58c1414ce5 
+L265 npm animejs 4.3.2 outro_commit 1e7aefc8c6 df3725ab46 
+L269 npm @paperclipai/db 0.2.5 nao_registrado  ab3b9ab19f 
+L273 npm claude-flow 3.32.40 nao_registrado  76453115a8 

@@ -1,0 +1,117 @@
+L001 pypi regex 2026.9.19 nao_chegou 372 versions
+L003 pypi tzdata 2026.3rc1 nao_chegou 39 versions
+L006 pypi huggingface-hub 1.3.6 nao_chegou 338 versions
+L007 pypi transformers 5.10.3 nao_chegou 253 versions
+L009 pypi croniter 6.1.0rc3 nao_chegou 107 versions
+L011 pypi pytest-timeout 2.5.0 chegou yanked
+L013 fdroid com.abhinavxt.debforge 1.0.1 nao_chegou 5 versions
+L015 fdroid com.ericlowry.dnstoggle 1.0.5 nao_chegou 18 versions
+L017 fdroid sh.haven.app 4.10.1 nao_chegou 98 versions
+L024 fdroid org.walks.gamecopilot 1.5 nao_chegou 1 versions
+L029 fdroid io.github.dorumrr.de1984 2.6.7 nao_chegou 32 versions
+L030 fdroid net.timelegend.chaka.viewer.app 1.24.9a.20-beta nao_chegou 46 versions
+L032 fdroid ch.joshuah.bibleverseapp 2.0.0 nao_chegou 7 versions
+L033 fdroid io.github.lunchwine.spacetraderclassic 0.9.0 nao_chegou 1 versions
+L035 fdroid montafra.beam 0.1 nao_chegou 15 versions
+L039 fdroid com.nitulshah.nudge 1.2.1 nao_chegou 3 versions
+L040 fdroid com.uc.caffeine 2.2.2 nao_chegou 10 versions
+L042 fdroid com.piotv.keytab 0.19 nao_chegou 4 versions
+L043 fdroid com.samyak.repostore 1.0.13 nao_chegou 6 versions
+L045 fdroid io.github.soichi11208.zinna 0.0.6 nao_chegou 2 versions
+L046 fdroid app.pagedrop 0.1.2 nao_chegou 6 versions
+L047 fdroid finance.valet 5.0.1 nao_chegou 3 versions
+L048 fdroid org.ntust.app.tigerduck.fdroid 0.6.0-alpha nao_chegou 15 versions
+L051 fdroid com.kingzcheung.xime 2.0.0-beta4 nao_chegou 16 versions
+L054 None None 2.1.8-beta.1 sem_registro no publishable manifest
+L055 None None 0.0.1 sem_registro no publishable manifest
+L056 None None 10.0.2 sem_registro no publishable manifest
+L062 fdroid com.antoinelabpixel.boxingclock 1.0.2 nao_chegou 2 versions
+L065 fdroid com.craftworks.music 1.29.1 nao_chegou 2 versions
+L066 fdroid com.aditya1875.pokeverse 1.4.0 nao_chegou 2 versions
+L067 fdroid pw.dotto.netmanager.foss 0.0.4 nao_chegou 4 versions
+L069 fdroid org.paladyn.mediclog 0.2.20 nao_chegou 19 versions
+L070 fdroid com.kingalex.kingpong 1.0.2 nao_chegou 5 versions
+L073 fdroid com.razielo.boutscoring 1.0.1 nao_chegou 2 versions
+L074 fdroid com.moi.lumine 0.1.1 nao_chegou 20 versions
+L077 fdroid io.pcontacts.app 1.0.0 nao_chegou 14 versions
+L079 fdroid com.fadcam 3.1.0-beta nao_chegou 4 versions
+L080 fdroid net.af0.where 2026.08.29.1 nao_chegou 11 versions
+L081 fdroid com.opensource.i2pradio 1.6.0 nao_chegou 5 versions
+L082 fdroid info.dvkr.screenstream 4.3.3 nao_chegou 77 versions
+L083 fdroid indi.dmzz_yyhyy.lightnovelreader 1.2.0-rc1 nao_chegou 6 versions
+L084 fdroid com.typeassist.app 1.0.5 nao_chegou 1 versions
+L086 fdroid com.gifboard 1.0.1 nao_chegou 2 versions
+L087 fdroid com.helloworld3003.livewallpaperdinogame 1.2.0 nao_chegou 1 versions
+L088 fdroid com.biketrackd.app 0.4 nao_chegou 1 versions
+L089 fdroid org.avmedia.remotevideocam 3.6 nao_chegou 13 versions
+L093 fdroid com.gorden.dayexam 1.1.4 nao_chegou 5 versions
+L094 fdroid com.newoether.agora 1.0.2 nao_chegou 9 versions
+L095 fdroid com.sasas991.wolpanel 1.2 nao_chegou 1 versions
+L097 fdroid de.moekadu.metronome 4.14.0-rc1 nao_chegou 41 versions
+L098 fdroid com.kolktech.linxshare 1.6 nao_chegou 3 versions
+L099 fdroid com.tvlauncher 1.5.2 nao_chegou 1 versions
+L100 fdroid com.kingzcheung.xime 2.4.0-t9-beta2 nao_chegou 16 versions
+L105 npm @davstack/sound 1.2.0 nao_chegou 4 versions
+L111 npm glad-web 1.0.2 nao_chegou 77 versions
+L118 npm @trixter-osec/spl-associated-token-account 0.30.4 nao_chegou 1 versions
+L119 npm @falling-ts/dsh-force-compact 0.2.1 chegou 
+L121 npm octocounts 0.1.2 nao_chegou 1 versions
+L122 npm @intentsolutionsio/container-security-scanner 4.31.0 nao_chegou 2 versions
+L123 npm @jsilff/anilibrary-react 0.2.1 chegou 
+L128 npm sdk-node-ventaonline 2.0.3 nao_chegou 1 versions
+L129 npm @rilai/napm 0.2.3 nao_chegou 8 versions
+L130 npm @rsksmart/flyover-sdk 1.9.0-rc nao_chegou 18 versions
+L131 npm servedjs 1.1.4 nao_chegou 29 versions
+L138 npm @termysh/pty-darwin-x64 0.1.1 nao_chegou 2 versions
+L140 npm gitworthy 0.3.1 chegou 
+L141 npm @vertz/core 0.2.68 chegou 
+L143 pubdev system_language 0.3.1 chegou 
+L150 pubdev fluxui_kit 0.2.0 chegou 
+L153 pubdev appmeasurely 1.0.1 chegou 
+L163 pubdev flutter_decorated_text 2.2.0 chegou 
+L171 pubdev vigie 0.3.0 nao_chegou 4 versions
+L182 pypi personos 0.1.4 nao_chegou 4 versions
+L184 pypi qlogicae-logis 3.1.2 chegou 
+L185 pypi aws-resource-validator-snowball 2.0.1 nao_chegou 11 versions
+L187 pypi fsteg 0.1.1 chegou 
+L189 pypi small-fish-gui 2.1.0 chegou 
+L190 pypi quota-floor 0.1.0-alpha nao_chegou 2 versions
+L192 pypi orallexa-marketing-agent 0.3.0 nao_chegou 9 versions
+L193 pypi onprem 0.24.2 nao_chegou 133 versions
+L194 pypi axiom-os-lm 0.70.5 chegou 
+L195 pypi byteplussdk-milvus 3.0.35 nao_chegou 4 versions
+L196 pypi serial-junction 0.1.0 nao_chegou 1 versions
+L197 pypi mcplex-backplane 0.1.0-alpha nao_chegou 2 versions
+L199 pypi ca9 0.3.1 nao_chegou 13 versions
+L203 pypi pinrule 0.13.6 nao_chegou 26 versions
+L207 pypi trellisdb 1.0.4 nao_chegou 1 versions
+L209 pypi pingera-mcp-server 0.1.14 chegou 
+L210 pypi kube-saver 1.2.0 nao_chegou 1 versions
+L211 pypi OctoPrint-BitBang 0.2.9 nao_chegou 18 versions
+L212 pypi smarter-api 0.2.1 nao_chegou 11 versions
+L213 pypi twitch-auto-clipper 1.0.0 chegou 
+L215 pypi cua-cloud 0.1.4 nao_chegou 1 versions
+L216 pypi nn3d 2026.0901.0 nao_chegou 2 versions
+L219 pypi bazicalculator-url-tools 0.1.1 nao_chegou 1 versions
+L220 pypi tools-extra 0.1.5 nao_chegou 8 versions
+L221 pypi lettermint-django 0.3.0a1 nao_chegou 4 versions
+L222 rubygems toolchest 0.3.1 nao_chegou 6 versions
+L225 rubygems orcid_client 0.17.0 nao_chegou 43 versions
+L226 rubygems markdowndocs 0.10.0 chegou 
+L230 rubygems philiprehberger-safe_yaml 0.1.1 nao_chegou 11 versions
+L232 rubygems stateful.rb 0.14.5 nao_chegou 24 versions
+L238 crates smallvec 1.16.0 chegou 
+L239 npm mirofish 0.1.2 sem_registro npm 404 (package.json)
+L240 pypi ComfyUI 0.20.2 nao_chegou 1 versions
+L243 pypi graphifyy 0.4.31 chegou 
+L245 npm anything-llm 1.11.2 nao_chegou 0 versions
+L247 None None 2.6.0 sem_registro no publishable manifest
+L252 None None 0.8.95-pre.1 sem_registro no publishable manifest
+L253 npm clash-verge 2.5.4-rc.2 nao_chegou 3 versions
+L256 npm @colbymchenry/codegraph 0.7.9 chegou 
+L259 pypi specify-cli 0.1.7 nao_chegou 83 versions
+L260 None None 0.49.0-preview.0 sem_registro no publishable manifest
+L265 npm animejs 4.3.2 chegou 
+L269 npm @paperclipai/db 0.2.5 chegou 
+L271 crates rtk 0.30.1-rc.43 nao_chegou 1+ versions
+L273 npm claude-flow 3.32.40 chegou 
